@@ -7,7 +7,7 @@ import csv
 import re
 import json
 
-mypath="newtest/"
+mypath="/"
 configFile="config.json"
 
 def readConfig(papper_name):

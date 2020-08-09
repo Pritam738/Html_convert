@@ -1,6 +1,7 @@
 # Html_convert - News scraper 
 Html to Csv converter.
 In the following script, we will write some code in order to obtain the latest news from the following newspapers:
+
 eg: El País,
 The Guardian,
 Daily Mail,
